@@ -5,18 +5,18 @@
 **ft_transcendence** from **42 School** is the last project of the commom core.
 
 ## Summary
-"No more C! No more C++!
-This project is about doing something you’ve never done before.
-Remind yourself the beginning of your journey in computer science.
-Look at you now. Time to shine!"
-
-
 This project is about creating a website for the mighty Pong contest!
 
+Implemented an intuitive user interface, integrated a real-time chat functionality for players, and enabled seamless live gameplay. 
+Leveraged Typescript with ReactJS framework for the frontend, while implementing NestJS framework for the backend, and Prisma library for database management. Implemented Docker for streamlined DevOps processes, ensuring efficient deployment and scalability.
+
 ### Tools
--   React
+-   TypeScript
+-   ReactJs
 -   NestJs
 -   PostgreSQL
+-   Prisma
+-   Docker
 
 ## Homepage
 ![homepage](image/homepage.png)
